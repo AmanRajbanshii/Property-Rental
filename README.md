@@ -1,1 +1,2 @@
-<h1>Property Rental</h1>
+<h2>Property Rental</h2>
+Hi this project is about the property rental.
